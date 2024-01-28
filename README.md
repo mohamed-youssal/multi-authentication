@@ -8,7 +8,7 @@
 </p>
 
 ## important
-when you run this project, you can register users, to make one of them admin you need to go to the database and edit the attribute 'is_admin', but 1 instead of the default value which is 0 to make the user admin
+when you run this project, you can register many users, to make one of them admin you need to go to the database then to edit the boolean attribute 'is_admin' in 'users' table, put 1 instead of the default value which is 0 to make the user admin
 
 ## About Laravel
 
